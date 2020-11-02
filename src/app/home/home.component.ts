@@ -15,10 +15,6 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
     this.usersService.all().subscribe((res) => {
-      console.log(
-        '\n\n THESE ARE THE USERS res: \n',
-        res
-      );
       this.users = res;
     })
   }
