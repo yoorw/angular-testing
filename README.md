@@ -1,6 +1,6 @@
 # AngularTesting
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+This project was created following this tutorial: `https://www.digitalocean.com/community/tutorials/testing-angular-with-jasmine-and-karma-part-1` in effort to learn more about Angular Unit Testing.
 
 ## Development server
 
